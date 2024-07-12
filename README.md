@@ -1,1 +1,1 @@
-# CodeAlpha-Project-Awesh-Kumar
+# CodeAlpha-Project-Diease Prediction from Medical Data
